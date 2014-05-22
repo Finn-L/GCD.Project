@@ -43,4 +43,4 @@ Getting and Cleaning Data - course project - Code Book
         
 ### Important Notes:
 * By now I have realized(at least I think) this assignment intends that we organize the data in a way that every single row represents a single participant. So it should have involved some data reshaping work.
-* Unfortunately, I don't have enough time to reshape the data. But I did group the data and find a rather hard to understand solution(run_analysis row 64 - 69) to summarise the data. While reshaping should have been easier.
+* Unfortunately, I don't have enough time to reshape the data since I've spent quite some time with this assignment. But I did group the data and find a rather hard to understand solution(run_analysis row 64 - 69) to summarise the data. While reshaping should have been easier.
