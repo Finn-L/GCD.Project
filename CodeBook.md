@@ -43,6 +43,6 @@ Getting and Cleaning Data - course project - Code Book
         
 ### Important Notes:
 * Perhaps this assignment intends that we organize the data in a way that every single row represents a single participant. So it should have involved some data reshaping work.
+
 * Given the way the data is organized and processed by me, I think it is appropriate to reshape this tidy data in this format.
-=======
 
